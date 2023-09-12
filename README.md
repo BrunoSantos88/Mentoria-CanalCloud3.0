@@ -52,7 +52,19 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 
  </p>
  
+# Git
+O que é o Git? Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças no código-fonte de um projeto de software. Ele foi criado por Linus Torvalds em 2005 e é uma ferramenta de linha de comando.
+Controle de Versão: O Git permite que você mantenha um histórico de todas as alterações feitas no código-fonte de um projeto. Isso é útil para rastrear quem fez quais alterações, quando e por quê.
+Branching e Merging: Uma das características mais poderosas do Git é a capacidade de criar branches (ramificações) para desenvolver novos recursos ou corrigir bugs sem afetar a versão principal do código. Posteriormente, você pode mesclar (merge) essas alterações de volta ao branch principal.
+Distribuído: Cada cópia de um repositório Git contém todo o histórico de alterações, o que torna o Git um sistema distribuído. Isso significa que você pode trabalhar offline e colaborar com outros desenvolvedores de forma eficaz.
+ 
+# GitHub
+O que é o GitHub? GitHub é uma plataforma de hospedagem de código-fonte baseada na web que usa o Git para controle de versão. Ele permite que desenvolvedores colaborem em projetos, compartilhem código e gerenciem projetos de software.
+Hospedagem de Repositórios: No GitHub, você pode criar repositórios Git para armazenar seu código-fonte e colaborar com outros desenvolvedores. Os repositórios podem ser públicos (acessíveis por qualquer pessoa) ou privados (com acesso restrito).
+Colaboração: O GitHub oferece recursos para colaboração em equipe, como pull requests, issues (problemas), wikis e ferramentas de revisão de código. Os desenvolvedores podem trabalhar juntos de forma eficiente, revisar e comentar o código de outras pessoas e acompanhar o progresso do projeto.
+Integrações: É possível integrar o GitHub com uma variedade de ferramentas e serviços, como integração contínua (CI/CD), ferramentas de gerenciamento de projetos e automação de tarefas.
 
+Comunidade: O GitHub é uma grande comunidade de desenvolvedores, onde você pode descobrir projetos de código aberto, contribuir para eles e aprender com outros desenvolvedores.
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
 
