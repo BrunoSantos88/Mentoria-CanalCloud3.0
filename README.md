@@ -45,6 +45,12 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 - Networking: Através da mentoria, o mentee pode expandir sua rede de contatos na indústria DevOps.
 - Resolução de Problemas Mais Rápida: A orientação de um mentor pode ajudar a resolver problemas de forma mais eficaz, economizando tempo e recursos.
 - Crescimento Profissional: A mentoria pode contribuir significativamente para o crescimento e avanço na carreira do mentee.
+
+</p>
+   
+<img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="400px" max-width="400px" width="400px" align="lefth" alt="Computador illustration">
+
+ </p>
  
 
 🎯 Entre em contato comigo :) // contact me ⤵
