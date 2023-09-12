@@ -48,8 +48,8 @@ configuração de ferramentas DevOps e práticas ágeis.
 # Arquitetura e Ferramentas para o Challenge 
 
 <img align="left" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
-• Kubernetes: Implantação e gerenciamento de clusters Kubernetes para 
-orquestração eficiente de contêineres. </p>
+• Kubernetes: Implantação e gerenciamento de clusters Kubernetes para orquestração eficiente de contêineres. </p>
+
 • APIm (API Management): Implementação de uma plataforma de 
 gerenciamento de APIs para fornecer controle e monitoramento das 
 interfaces do AutoStream.</p>
