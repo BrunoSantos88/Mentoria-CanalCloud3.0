@@ -53,7 +53,7 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
  </p>
  
 # Git
-O que é o Git? Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças no código-fonte de um projeto de software. Ele foi criado por Linus Torvalds em 2005 e é uma ferramenta de linha de comando.
+O que é o Git? Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças no código-fonte de um projeto de software.  È uma ferramenta de linha de comando.
 Controle de Versão: O Git permite que você mantenha um histórico de todas as alterações feitas no código-fonte de um projeto. Isso é útil para rastrear quem fez quais alterações, quando e por quê.
 Branching e Merging: Uma das características mais poderosas do Git é a capacidade de criar branches (ramificações) para desenvolver novos recursos ou corrigir bugs sem afetar a versão principal do código. Posteriormente, você pode mesclar (merge) essas alterações de volta ao branch principal.
 Distribuído: Cada cópia de um repositório Git contém todo o histórico de alterações, o que torna o Git um sistema distribuído. Isso significa que você pode trabalhar offline e colaborar com outros desenvolvedores de forma eficaz.
