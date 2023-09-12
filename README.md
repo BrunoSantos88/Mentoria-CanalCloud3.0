@@ -53,16 +53,23 @@ configuração de ferramentas DevOps e práticas ágeis.
 • APIm (API Management): Implementação de uma plataforma de 
 gerenciamento de APIs para fornecer controle e monitoramento das 
 interfaces do AutoStream.</p>
+
 • Storages: Configuração de soluções de armazenamento adequadas para 
 gerenciar volumes de dados do AutoStream.</p>
+
 • DNS: Configuração de serviços de sistema de nomes de domínio para 
 garantir a resolução de endereços na rede.</p>
+
 • PostgreSQL: Implementação e gerenciamento do banco de dados 
 PostgreSQL para armazenamento de dados estruturados.</p>
+
 • Web Services: Desenvolvimento de serviços da web para comunicação 
 entre componentes do AutoStream.</p>
+
+<img align="left" alt="Rafa-Js" height="60" width="70" src="https://user-images.githubusercontent.com/91704169/267483197-14c4fb56-a7ef-43bd-865b-a782de7c5cbd.png" /> 
 • Cache Redis: Configuração e gerenciamento de cache Redis para 
-melhorar o desempenho e a latência.</p>
+melhorar o desempenho e a latência. </p>
+
 • Load Balancers: Implementação de balanceadores de carga para
 distribuir o tráfego de forma equilibrada entre os microserviços.
 • Cofre de Senhas: Estabelecimento de um sistema seguro para o 
