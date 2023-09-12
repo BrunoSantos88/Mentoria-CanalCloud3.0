@@ -6,10 +6,6 @@ Mentoria Time Devops10
 <img src="https://user-images.githubusercontent.com/91704169/267195344-0a9e89ae-5e75-4eba-88b5-05ef429c84d2.png" min-width="200px" max-width="200px" width="200
 px" align="left" alt="CanalDaCloud">  </P>
 
-
-
-
-
 <p align="left">
              
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
@@ -20,11 +16,11 @@ px" align="left" alt="CanalDaCloud">  </P>
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png" />
 
 
-- Aulas Devops Fundamento 1 e 2
-- Git e Github Fundamento e trabalhando com Versionamento.
-- Docker, Kubernets - trabalhando com Containers.
-- Terraform e Ansible - Trabalhando com Automação.
-- Jenkins e Git actions - trabalhando com Delivery Pepeline
-- Observabilidade - trabalhando com metricas e monitoramento.
+# Aulas Devops Fundamento 1 e 2
+# Git e Github Fundamento e trabalhando com Versionamento.
+# Docker, Kubernets - trabalhando com Containers.
+# Terraform e Ansible - Trabalhando com Automação.
+# Jenkins e Git actions - trabalhando com Delivery Pepeline
+# Observabilidade - trabalhando com metricas e monitoramento.
 
 
