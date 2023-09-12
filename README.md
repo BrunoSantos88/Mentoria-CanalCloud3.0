@@ -38,7 +38,7 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 
  </p>
 
-# Benefícios da Mentoria DevOps:
+# Mentoria DevOps:
 
 - Aceleração do Aprendizado: A mentoria acelera a curva de aprendizado, permitindo que o mentee adquira conhecimento e experiência mais rapidamente.
 - Desenvolvimento de Habilidades Práticas: Ajuda o mentee a desenvolver habilidades práticas que são essenciais para o sucesso em ambientes DevOps.
