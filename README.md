@@ -45,10 +45,10 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 - Networking: Através da mentoria, o mentee pode expandir sua rede de contatos na indústria DevOps.
 - Resolução de Problemas Mais Rápida: A orientação de um mentor pode ajudar a resolver problemas de forma mais eficaz, economizando tempo e recursos.
 - Crescimento Profissional: A mentoria pode contribuir significativamente para o crescimento e avanço na carreira do mentee.
-  
 </p>
-# Arquitetura e Ferramentas para o Challenge
-- Componentes-Chave:
+
+# Arquitetura e Ferramentas para o Challenge 
+
 • Kubernetes: Implantação e gerenciamento de clusters Kubernetes para 
 orquestração eficiente de contêineres. </p>
 • APIm (API Management): Implementação de uma plataforma de 
