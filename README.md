@@ -23,17 +23,41 @@
 
  </p>
  
-🤖 Challenge DevOps Fundamentos
--  Devops Fundamentos.
--  Git e GitHUb
+- A mentoria DevOps envolve um processo no qual um profissional experiente, conhecido como mentor, orienta e apoia outro profissional, conhecido como mentee, no desenvolvimento de habilidades e conhecimentos relacionados a DevOps. DevOps é uma abordagem que visa integrar o desenvolvimento de software (Dev) com a operação de sistemas (Ops), a fim de melhorar a entrega de software, a eficiência operacional e a qualidade.
 
- </p>
+- Orientação Técnica: Um mentor DevOps fornece orientação técnica para o mentee em áreas como automação, integração contínua, entrega contínua, monitoramento e gerenciamento de configuração.
 
-🤖 Conhecimento com as Ferramentas
-- Sofware Linguagem: Terraform - Ansible
-- Container: Docker - Kubenetes. 
-- Observability - Metricas </p>
-- Delivery Pipeline: Jenkins e GitAction
+- Compartilhamento de Experiência: O mentor compartilha suas próprias experiências e insights sobre como implementar práticas DevOps eficazes em projetos e equipes.
+
+- Resolução de Problemas: Ajuda o mentee a resolver problemas relacionados a DevOps e a identificar soluções práticas.
+
+- Desenvolvimento de Habilidades: Auxilia o mentee no desenvolvimento de habilidades técnicas, como scripting, automação, configuração de ferramentas DevOps e práticas ágeis.
+
+- Desenvolvimento de Conhecimento: Ajuda o mentee a entender os princípios fundamentais de DevOps, suas metodologias e ferramentas associadas.
+
+- Mentoria de Carreira: Além das habilidades técnicas, um mentor DevOps pode fornecer orientação sobre o desenvolvimento de carreira, estratégias de aprendizado contínuo e networking na indústria.
+
+- Aprendizado Ativo: O mentee deve estar disposto a aprender ativamente, fazer perguntas e buscar conhecimento.
+
+- Prática e Implementação: Deve aplicar os conhecimentos adquiridos em projetos reais para ganhar experiência prática.
+
+- Comunicação Eficaz: Deve comunicar regularmente com o mentor, compartilhar seus desafios e progressos.
+
+- Feedback: Esteja aberto a receber feedback construtivo do mentor e use-o para melhorar suas habilidades.
+
+- Definir Metas: Deve definir metas de aprendizado e desenvolvimento com o mentor, para orientar o processo.
+
+# Benefícios da Mentoria DevOps:
+
+- Aceleração do Aprendizado: A mentoria acelera a curva de aprendizado, permitindo que o mentee adquira conhecimento e experiência mais rapidamente.
+
+- Desenvolvimento de Habilidades Práticas: Ajuda o mentee a desenvolver habilidades práticas que são essenciais para o sucesso em ambientes DevOps.
+
+- Networking: Através da mentoria, o mentee pode expandir sua rede de contatos na indústria DevOps.
+
+- Resolução de Problemas Mais Rápida: A orientação de um mentor pode ajudar a resolver problemas de forma mais eficaz, economizando tempo e recursos.
+
+- Crescimento Profissional: A mentoria pode contribuir significativamente para o crescimento e avanço na carreira do mentee.
 
 
 
