@@ -10,3 +10,4 @@
 # Commando versionamento
  $ git commit -m "texto"                    ///    --- Setar nome do push </p>
  $ git push origin main                     ///    --- executar push branch </p>
+ $ git pull                                 ///    --- baixar atualização commit
