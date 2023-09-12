@@ -75,7 +75,7 @@ distribuir o tráfego de forma equilibrada entre os microserviços.
 • Cofre de Senhas: Estabelecimento de um sistema seguro para o 
 armazenamento e gerenciamento de senhas sensíveis. </p>
 
-<img align="center" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
+<img align="left" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 Pipelines CI/CD: Desenvolvimento de pipelines de integração e entrega 
 contínuas para automatizar a implantação de infraestrutura e aplicativos.
 
