@@ -1,4 +1,4 @@
-# Mentoria
+
 <p align="left">
          
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
@@ -30,11 +30,11 @@ entrega contínua, monitoramento e gerenciamento de configuração.
 - Compartilhamento de Experiência: O mentor compartilha suas próprias experiências e insights sobre como implementar práticas DevOps eficazes em projetos e equipes.
 Resolução de Problemas: Ajuda o mentee a resolver problemas relacionados a DevOps e a identificar soluções práticas.
 - Desenvolvimento de Habilidades: Auxilia o mentee no desenvolvimento de habilidades técnicas, como scripting, automação,
-configuração de ferramentas DevOps e práticas ágeis. /p> </p>
+configuração de ferramentas DevOps e práticas ágeis. /p> 
 
-
-
-<img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="400px" max-width="400px" width="40000px" align="right" alt="Computador illustration">
+</p>
+   
+<img src="https://user-images.githubusercontent.com/91704169/267197442-2deeb92a-0ef5-46ae-bbe2-69fcaabfdad6.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
 
  </p>
 
