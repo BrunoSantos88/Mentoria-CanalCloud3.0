@@ -31,16 +31,16 @@ Resolução de Problemas: Ajuda o mentee a resolver problemas relacionados a Dev
 - Desenvolvimento de Habilidades: Auxilia o mentee no desenvolvimento de habilidades técnicas, como scripting, automação,
 configuração de ferramentas DevOps e práticas ágeis.
 
-<img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador illustration">
+<img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="400px" max-width="400px" width="40000px" align="right" alt="Computador illustration">
  </p>
 
 # Benefícios da Mentoria DevOps:
 
-Aceleração do Aprendizado: A mentoria acelera a curva de aprendizado, permitindo que o mentee adquira conhecimento e experiência mais rapidamente.
-Desenvolvimento de Habilidades Práticas: Ajuda o mentee a desenvolver habilidades práticas que são essenciais para o sucesso em ambientes DevOps.
-Networking: Através da mentoria, o mentee pode expandir sua rede de contatos na indústria DevOps.
-Resolução de Problemas Mais Rápida: A orientação de um mentor pode ajudar a resolver problemas de forma mais eficaz, economizando tempo e recursos.
-Crescimento Profissional: A mentoria pode contribuir significativamente para o crescimento e avanço na carreira do mentee.
+- Aceleração do Aprendizado: A mentoria acelera a curva de aprendizado, permitindo que o mentee adquira conhecimento e experiência mais rapidamente.
+- Desenvolvimento de Habilidades Práticas: Ajuda o mentee a desenvolver habilidades práticas que são essenciais para o sucesso em ambientes DevOps.
+- Networking: Através da mentoria, o mentee pode expandir sua rede de contatos na indústria DevOps.
+- Resolução de Problemas Mais Rápida: A orientação de um mentor pode ajudar a resolver problemas de forma mais eficaz, economizando tempo e recursos.
+- Crescimento Profissional: A mentoria pode contribuir significativamente para o crescimento e avanço na carreira do mentee.
  
 
 
