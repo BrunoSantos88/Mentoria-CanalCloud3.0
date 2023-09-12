@@ -1,7 +1,5 @@
-# Mentoria Canal da Cloud 3.0
 <p align="left">
-       
-    
+         
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" />
@@ -22,6 +20,8 @@
 <img src="https://user-images.githubusercontent.com/91704169/267197442-2deeb92a-0ef5-46ae-bbe2-69fcaabfdad6.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
 
  </p>
+
+ # Mentoria Canal da Cloud 3.0
  
 - A mentoria DevOps envolve um processo no qual um profissional experiente, conhecido como mentor, orienta e apoia outro profissional, conhecido como mentee, no desenvolvimento de habilidades e conhecimentos relacionados a DevOps. DevOps é uma abordagem que visa integrar o desenvolvimento de software (Dev) com a operação de sistemas (Ops), a fim de melhorar a entrega de software, a eficiência operacional e a qualidade.
 - Orientação Técnica: Um mentor DevOps fornece orientação técnica para o mentee em áreas como automação, integração contínua,
