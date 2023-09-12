@@ -42,8 +42,8 @@ configuração de ferramentas DevOps e práticas ágeis.
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/211868831-c7a5f64d-04d9-461f-b7c0-d665f9d67eed.png"/>
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 <img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/267420917-3e875b49-4219-491d-b48e-b72fc94fa2e4.png" />  
-<img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/267480339-6bae690b-e503-43a1-a7bb-b96b98033854.png" /> 
-<img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/267482497-f6b46c72-ef93-490f-a279-d2cd8fb6ffb4.png" /> 
+<img align="center" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/91704169/267480339-6bae690b-e503-43a1-a7bb-b96b98033854.png" /> 
+<img align="center" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/91704169/267482497-f6b46c72-ef93-490f-a279-d2cd8fb6ffb4.png" /> 
 
 # Arquitetura e Ferramentas para o Challenge 
 
