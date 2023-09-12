@@ -94,6 +94,7 @@ para acesso seguro à rede.</p>
 sistema de controle de versão para gerenciar o código-fonte dos 
 componentes do AutoStream.
 
+#  Arquitetura Challenge 
 
 - Arquitetura Cloud Native: A solução deve ser construída nativamente na 
 nuvem, utilizando princípios e padrões Cloud Native para garantir 
