@@ -30,9 +30,9 @@
  </p>
 
 🤖 Conhecimento com as Ferramentas
-- Sofware Linguagem: Terraform
+- Sofware Linguagem: Terraform - Ansible
 - Container: Docker - Kubenetes. 
-- Observability - </p>
+- Observability - Metricas </p>
 - Delivery Pipeline: Jenkins e GitAction
 
 
