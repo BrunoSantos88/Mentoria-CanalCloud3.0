@@ -27,12 +27,18 @@ Kubelet: O kubelet pode ser visto como o alente do k8s que é executado nos nós
 
 Kube-proxy: Age como um proxy e um load balancer. Este componente é responsável por efetuar roteamento de requisições para os pods corretos, como também por cuidar da parte de rede do nó;
 
-Portas que devemos nos preocupar
-CONTROL PLANE
+# Portas que devemos nos preocupar
+- CONTROL PLANE
 
-Protocol	Direction	Port Range	Purpose	Used By
-TCP	Inbound	6443*	Kubernetes API server	All
-TCP	Inbound	2379-2380	etcd server client API	kube-apiserver, etcd
-TCP	Inbound	10250	Kubelet API	Self, Control plane
-TCP	Inbound	10251	kube-scheduler	Self
-TCP	Inbound	10252	kube-controller-manager	Self
+- Protocol	Direction	Port Range	Purpose	Used By
+- TCP	Inbound	6443*	Kubernetes API server	All
+- TCP	Inbound	2379-2380	etcd server client API	kube-apiserver, etcd
+- TCP	Inbound	10250	Kubelet API	Self, Control plane
+- TCP	Inbound	10251	kube-scheduler	Self
+- TCP	Inbound	10252	kube-controller-manager	Self
+  
+  # Toda porta marcada por * é customizável, você precisa se certificar que a porta alterada também esteja aberta.
+- WORKERS
+- Protocol	Direction	Port Range	Purpose	Used By
+- TCP	Inbound	10250	Kubelet API	Self, Control plane
+- TCP	Inbound	30000-32767	NodePort	Services All
