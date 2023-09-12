@@ -7,9 +7,9 @@
  </p>
  
 🤖 Curso DevOps Fundamentos
-  
-- Aulas
+
 - Devops Fundamentos.
+- Git e GitHUb
 
 🤖 Conhecimento com as Ferramentas
 
