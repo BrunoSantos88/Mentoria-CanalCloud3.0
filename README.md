@@ -31,7 +31,7 @@ Resolução de Problemas: Ajuda o mentee a resolver problemas relacionados a Dev
 - Desenvolvimento de Habilidades: Auxilia o mentee no desenvolvimento de habilidades técnicas, como scripting, automação,
 configuração de ferramentas DevOps e práticas ágeis.
 
-<img src="https://user-images.githubusercontent.com/91704169/267197442-2deeb92a-0ef5-46ae-bbe2-69fcaabfdad6.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
+<img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
 
  </p>
  
