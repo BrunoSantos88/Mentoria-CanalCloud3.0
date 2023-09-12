@@ -13,8 +13,7 @@ entrega contínua, monitoramento e gerenciamento de configuração.
 - Compartilhamento de Experiência: O mentor compartilha suas próprias experiências e insights sobre como implementar práticas DevOps eficazes em projetos e equipes.
 Resolução de Problemas: Ajuda o mentee a resolver problemas relacionados a DevOps e a identificar soluções práticas.
 - Desenvolvimento de Habilidades: Auxilia o mentee no desenvolvimento de habilidades técnicas, como scripting, automação,
-configuração de ferramentas DevOps e práticas ágeis. /p> 
-
+configuração de ferramentas DevOps e práticas ágeis.
 </p>
    
 <img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador illustration">
