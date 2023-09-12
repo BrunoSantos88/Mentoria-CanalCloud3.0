@@ -1,5 +1,0 @@
-# Container Docker
-
-- Instalação
-
-- Commandos
