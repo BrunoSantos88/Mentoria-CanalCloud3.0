@@ -55,6 +55,8 @@ Git é um sistema de controle de versão distribuído amplamente utilizado para 
 GitHub é uma plataforma de hospedagem de código-fonte baseada na web que usa o Git para controle de versão. Ele permite que desenvolvedores colaborem em projetos, compartilhem código e gerenciem projetos de software.
 
 Comunidade: O GitHub é uma grande comunidade de desenvolvedores, onde você pode descobrir projetos de código aberto, contribuir para eles e aprender com outros desenvolvedores.
+ </p>
+ 
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
 
