@@ -45,16 +45,9 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 - Networking: Através da mentoria, o mentee pode expandir sua rede de contatos na indústria DevOps.
 - Resolução de Problemas Mais Rápida: A orientação de um mentor pode ajudar a resolver problemas de forma mais eficaz, economizando tempo e recursos.
 - Crescimento Profissional: A mentoria pode contribuir significativamente para o crescimento e avanço na carreira do mentee.
-
+- 
 </p>
    
-<img src="https://user-images.githubusercontent.com/91704169/267215689-5f59681d-5008-4b53-8d3a-13f60ccd7e24.JPG" min-width="500px" max-width="500px" width="500px" align="left" alt="Computador illustration">
-
- </p>
-Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças no código-fonte de um projeto de software. 
-GitHub é uma plataforma de hospedagem de código-fonte baseada na web que usa o Git para controle de versão. Ele permite que desenvolvedores colaborem em projetos, compartilhem código e gerenciem projetos de software.
- </p>
- 
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
 
