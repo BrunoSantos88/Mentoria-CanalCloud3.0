@@ -1,4 +1,3 @@
-# Commmando Git
 
  # Commandos Efetuar login
  $ git config --global user.name "Fulano de Tal" </p>
