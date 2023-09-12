@@ -93,14 +93,17 @@ para acesso seguro à rede.</p>
 • Repositório e Controle de Versão de Código: Estabelecimento de um 
 sistema de controle de versão para gerenciar o código-fonte dos 
 componentes do AutoStream.
------------------------------------------------------------------------------------
-• Arquitetura Cloud Native: A solução deve ser construída nativamente na 
+
+
+# Arquitetura Cloud Native: A solução deve ser construída nativamente na 
 nuvem, utilizando princípios e padrões Cloud Native para garantir 
 escalabilidade, resiliência e eficiência.
-• Microserviços e PaaS: A arquitetura de microserviços deve ser adotada, e 
+
+# Microserviços e PaaS: A arquitetura de microserviços deve ser adotada, e 
 a solução deve fazer uso extensivo de serviços gerenciados (PaaS) para 
 maximizar a agilidade e a produtividade.
-• Agnosticidade de Cloud Providers: A solução deve ser projetada para 
+
+# Agnosticidade de Cloud Providers: A solução deve ser projetada para 
 funcionar em vários provedores de nuvem, utilizando ferramentas e 
 serviços agnósticos para garantir a portabilidade.
    
