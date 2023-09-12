@@ -51,44 +51,44 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 
 # Componentes-Chave:
 • Kubernetes: Implantação e gerenciamento de clusters Kubernetes para 
-orquestração eficiente de contêineres.
+orquestração eficiente de contêineres. </p>
 • APIm (API Management): Implementação de uma plataforma de 
 gerenciamento de APIs para fornecer controle e monitoramento das 
-interfaces do AutoStream.
+interfaces do AutoStream.</p>
 • Storages: Configuração de soluções de armazenamento adequadas para 
-gerenciar volumes de dados do AutoStream.
+gerenciar volumes de dados do AutoStream.</p>
 • DNS: Configuração de serviços de sistema de nomes de domínio para 
-garantir a resolução de endereços na rede.
+garantir a resolução de endereços na rede.</p>
 • PostgreSQL: Implementação e gerenciamento do banco de dados 
-PostgreSQL para armazenamento de dados estruturados.
+PostgreSQL para armazenamento de dados estruturados.</p>
 • Web Services: Desenvolvimento de serviços da web para comunicação 
-entre componentes do AutoStream.
+entre componentes do AutoStream.</p>
 • Cache Redis: Configuração e gerenciamento de cache Redis para 
-melhorar o desempenho e a latência.
+melhorar o desempenho e a latência.</p>
 • Load Balancers: Implementação de balanceadores de carga para
 distribuir o tráfego de forma equilibrada entre os microserviços.
 • Cofre de Senhas: Estabelecimento de um sistema seguro para o 
-armazenamento e gerenciamento de senhas sensíveis.
+armazenamento e gerenciamento de senhas sensíveis.</p>
 • Pipelines CI/CD: Desenvolvimento de pipelines de integração e entrega 
 contínuas para automatizar a implantação de infraestrutura e aplicativos.
 • Infraestrutura como Código (IaC) com Terraform: Implementação da 
 infraestrutura como código usando o Terraform para facilitar o 
-provisionamento e gerenciamento.
+provisionamento e gerenciamento.</p>
 • Registro de Containers: Configuração de um registro de containers para 
-armazenar e gerenciar imagens de contêineres.
+armazenar e gerenciar imagens de contêineres.</p>
 • Serviço de Identidades: Implementação de um serviço de autenticação e 
-autorização para controle de acesso aos recursos.
+autorização para controle de acesso aos recursos.</p>
 • Monitoramento e Observabilidade: Configuração de uma solução de 
 monitoramento para garantir a visibilidade e o controle sobre o ambiente 
-do AutoStream.
+do AutoStream.</p>
 • Kafka: Implantação do Apache Kafka para suportar a troca de 
-mensagens entre os microserviços.
+mensagens entre os microserviços.</p>
 • Banco NoSQL: Implementação de um banco de dados NoSQL para 
-armazenamento de dados não estruturados.
+armazenamento de dados não estruturados.</p>
 • Firewall: Configuração de medidas de segurança, incluindo firewall, para 
-proteger a infraestrutura.
+proteger a infraestrutura.</p>
 • Jump Servers (Bastion Hosts): Implementação de servidores intermediários 
-para acesso seguro à rede.
+para acesso seguro à rede.</p>
 • Repositório e Controle de Versão de Código: Estabelecimento de um 
 sistema de controle de versão para gerenciar o código-fonte dos 
 componentes do AutoStream
