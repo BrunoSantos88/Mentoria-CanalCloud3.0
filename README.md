@@ -47,6 +47,51 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 - Crescimento Profissional: A mentoria pode contribuir significativamente para o crescimento e avanço na carreira do mentee.
   
 </p>
+# Arquitetura e Ferramentas para o Challenge
+
+# Componentes-Chave:
+• Kubernetes: Implantação e gerenciamento de clusters Kubernetes para 
+orquestração eficiente de contêineres.
+• APIm (API Management): Implementação de uma plataforma de 
+gerenciamento de APIs para fornecer controle e monitoramento das 
+interfaces do AutoStream.
+• Storages: Configuração de soluções de armazenamento adequadas para 
+gerenciar volumes de dados do AutoStream.
+• DNS: Configuração de serviços de sistema de nomes de domínio para 
+garantir a resolução de endereços na rede.
+• PostgreSQL: Implementação e gerenciamento do banco de dados 
+PostgreSQL para armazenamento de dados estruturados.
+• Web Services: Desenvolvimento de serviços da web para comunicação 
+entre componentes do AutoStream.
+• Cache Redis: Configuração e gerenciamento de cache Redis para 
+melhorar o desempenho e a latência.
+• Load Balancers: Implementação de balanceadores de carga para
+distribuir o tráfego de forma equilibrada entre os microserviços.
+• Cofre de Senhas: Estabelecimento de um sistema seguro para o 
+armazenamento e gerenciamento de senhas sensíveis.
+• Pipelines CI/CD: Desenvolvimento de pipelines de integração e entrega 
+contínuas para automatizar a implantação de infraestrutura e aplicativos.
+• Infraestrutura como Código (IaC) com Terraform: Implementação da 
+infraestrutura como código usando o Terraform para facilitar o 
+provisionamento e gerenciamento.
+• Registro de Containers: Configuração de um registro de containers para 
+armazenar e gerenciar imagens de contêineres.
+• Serviço de Identidades: Implementação de um serviço de autenticação e 
+autorização para controle de acesso aos recursos.
+• Monitoramento e Observabilidade: Configuração de uma solução de 
+monitoramento para garantir a visibilidade e o controle sobre o ambiente 
+do AutoStream.
+• Kafka: Implantação do Apache Kafka para suportar a troca de 
+mensagens entre os microserviços.
+• Banco NoSQL: Implementação de um banco de dados NoSQL para 
+armazenamento de dados não estruturados.
+• Firewall: Configuração de medidas de segurança, incluindo firewall, para 
+proteger a infraestrutura.
+• Jump Servers (Bastion Hosts): Implementação de servidores intermediários 
+para acesso seguro à rede.
+• Repositório e Controle de Versão de Código: Estabelecimento de um 
+sistema de controle de versão para gerenciar o código-fonte dos 
+componentes do AutoStream
    
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
