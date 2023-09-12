@@ -3,6 +3,8 @@
 - Voce pode usar um pronto como de cloud AKS e EKS e entre outros providers com custo de uso.
 - Voce pode usar Minikube para uso DevTest , não use isso em produção.
 
+Link Linuxtips: https://livro.descomplicandokubernetes.com.br/pt/day_one/#inicio-da-aula-do-day-1
+
 Alguns exemplos são:
 
 Kind: Uma ferramenta para execução de contêineres Docker que simulam o funcionamento de um cluster Kubernetes. É utilizado para fins didáticos, de desenvolvimento e testes. O Kind não deve ser utilizado para produção;
