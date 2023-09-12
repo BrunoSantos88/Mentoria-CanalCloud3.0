@@ -22,7 +22,7 @@
 
  </p>
 
- # Mentoria Canal da Cloud 3.0
+ # Canal da Cloud 3.0
  
 - A mentoria DevOps envolve um processo no qual um profissional experiente, conhecido como mentor, orienta e apoia outro profissional, conhecido como mentee, no desenvolvimento de habilidades e conhecimentos relacionados a DevOps. DevOps é uma abordagem que visa integrar o desenvolvimento de software (Dev) com a operação de sistemas (Ops), a fim de melhorar a entrega de software, a eficiência operacional e a qualidade.
 - Orientação Técnica: Um mentor DevOps fornece orientação técnica para o mentee em áreas como automação, integração contínua,
