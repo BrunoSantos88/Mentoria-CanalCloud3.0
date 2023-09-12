@@ -1,10 +1,8 @@
 
-Experiencia com Redes e Telecomunicações. </p>
-Sempre estudando conteudo de SRE.Devops, CyberSecurity, Network, Cloud Computing e com Infra is Code <br>
+# Mentoria Canal da Cloud 3.0
 </p>
 
 <p align="left">
-       
     
 <img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
