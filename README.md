@@ -26,16 +26,16 @@
 - A mentoria DevOps envolve um processo no qual um profissional experiente, conhecido como mentor, orienta e apoia outro profissional, conhecido como mentee, no desenvolvimento de habilidades e conhecimentos relacionados a DevOps. DevOps é uma abordagem que visa integrar o desenvolvimento de software (Dev) com a operação de sistemas (Ops), a fim de melhorar a entrega de software, a eficiência operacional e a qualidade.
 
 - Orientação Técnica: Um mentor DevOps fornece orientação técnica para o mentee em áreas como automação, integração contínua,
-- entrega contínua, monitoramento e gerenciamento de configuração.
+-  entrega contínua, monitoramento e gerenciamento de configuração.
 - Compartilhamento de Experiência: O mentor compartilha suas próprias experiências e insights sobre como implementar
-- práticas DevOps eficazes em projetos e equipes.
+ práticas DevOps eficazes em projetos e equipes.
 - Resolução de Problemas: Ajuda o mentee a resolver problemas relacionados a DevOps e a identificar soluções práticas.
 - Desenvolvimento de Habilidades: Auxilia o mentee no desenvolvimento de habilidades técnicas, como scripting, automação,
--  configuração de ferramentas DevOps e práticas ágeis.
+configuração de ferramentas DevOps e práticas ágeis.
 - Desenvolvimento de Conhecimento: Ajuda o mentee a entender os princípios fundamentais de DevOps, suas metodologias
--  e ferramentas associadas.
+e ferramentas associadas.
 - Mentoria de Carreira: Além das habilidades técnicas, um mentor DevOps pode fornecer orientação sobre o desenvolvimento
-- de carreira, estratégias de aprendizado contínuo e networking na indústria.
+de carreira, estratégias de aprendizado contínuo e networking na indústria.
 - Aprendizado Ativo: O mentee deve estar disposto a aprender ativamente, fazer perguntas e buscar conhecimento.
 - Prática e Implementação: Deve aplicar os conhecimentos adquiridos em projetos reais para ganhar experiência prática.
 - Comunicação Eficaz: Deve comunicar regularmente com o mentor, compartilhar seus desafios e progressos.
