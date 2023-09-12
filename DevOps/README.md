@@ -19,7 +19,7 @@
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 </p>
    
-<img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador illustration">
+<img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador illustration">
 
  </p>
  
