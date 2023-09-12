@@ -47,8 +47,6 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 - Crescimento Profissional: A mentoria pode contribuir significativamente para o crescimento e avanço na carreira do mentee.
  
 
-
-
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
 
