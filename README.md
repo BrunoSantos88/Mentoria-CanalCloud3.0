@@ -79,6 +79,7 @@ armazenamento e gerenciamento de senhas sensíveis. </p>
 Pipelines CI/CD: Desenvolvimento de pipelines de integração e entrega 
 contínuas para automatizar a implantação de infraestrutura e aplicativos.
 
+<img align="left" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" />
 • Infraestrutura como Código (IaC) com Terraform: Implementação da 
 infraestrutura como código usando o Terraform para facilitar o 
 provisionamento e gerenciamento.</p>
