@@ -24,16 +24,13 @@
  </p>
  
 🤖 Curso DevOps Fundamentos
-
 - Devops Fundamentos.
 - Git e GitHUb
-
 🤖 Conhecimento com as Ferramentas
-
 - Sofware Linguagem: Terraform
-- Container: Docker - Kubenetes. </p>
+- Container: Docker - Kubenetes. 
 - Observability - </p>
-- Delivery: jenkins e Git Action </p>
+- Delivery: jenkins e Git Action 
 
 
 
