@@ -48,7 +48,7 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 
 </p>
    
-<img src="https://user-images.githubusercontent.com/91704169/267198556-1e686df9-b54c-4113-aed3-b8672b6fb62d.png" min-width="400px" max-width="400px" width="400px" align="lefth" alt="Computador illustration">
+<img src="https://user-images.githubusercontent.com/91704169/267215689-5f59681d-5008-4b53-8d3a-13f60ccd7e24.JPG" min-width="400px" max-width="400px" width="400px" align="lefth" alt="Computador illustration">
 
  </p>
  
