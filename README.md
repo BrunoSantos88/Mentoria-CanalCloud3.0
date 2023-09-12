@@ -25,7 +25,7 @@
  
 🤖 Curso DevOps Fundamentos
 - Devops Fundamentos.
-- Git e GitHUb
+- Git e GitHUb </p>
 🤖 Conhecimento com as Ferramentas
 - Sofware Linguagem: Terraform
 - Container: Docker - Kubenetes. 
