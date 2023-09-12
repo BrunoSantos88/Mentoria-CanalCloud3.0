@@ -23,14 +23,12 @@
 
  </p>
  
-- A mentoria DevOps envolve um processo no qual um profissional experiente, conhecido como mentor, orienta e apoia outro profissional, conhecido como mentee, no desenvolvimento de habilidades e conhecimentos relacionados a DevOps. DevOps é uma abordagem que visa integrar o desenvolvimento de software (Dev) com a operação de sistemas (Ops), a fim de melhorar a entrega de software, a eficiência operacional e a qualidade.
-
-- Orientação Técnica: Um mentor DevOps fornece orientação técnica para o mentee em áreas como automação, integração contínua,
--  entrega contínua, monitoramento e gerenciamento de configuração.
-- Compartilhamento de Experiência: O mentor compartilha suas próprias experiências e insights sobre como implementar
- práticas DevOps eficazes em projetos e equipes.
-- Resolução de Problemas: Ajuda o mentee a resolver problemas relacionados a DevOps e a identificar soluções práticas.
-- Desenvolvimento de Habilidades: Auxilia o mentee no desenvolvimento de habilidades técnicas, como scripting, automação,
+A mentoria DevOps envolve um processo no qual um profissional experiente, conhecido como mentor, orienta e apoia outro profissional, conhecido como mentee, no desenvolvimento de habilidades e conhecimentos relacionados a DevOps. DevOps é uma abordagem que visa integrar o desenvolvimento de software (Dev) com a operação de sistemas (Ops), a fim de melhorar a entrega de software, a eficiência operacional e a qualidade.
+Orientação Técnica: Um mentor DevOps fornece orientação técnica para o mentee em áreas como automação, integração contínua,
+entrega contínua, monitoramento e gerenciamento de configuração.
+Compartilhamento de Experiência: O mentor compartilha suas próprias experiências e insights sobre como implementar práticas DevOps eficazes em projetos e equipes.
+Resolução de Problemas: Ajuda o mentee a resolver problemas relacionados a DevOps e a identificar soluções práticas.
+Desenvolvimento de Habilidades: Auxilia o mentee no desenvolvimento de habilidades técnicas, como scripting, automação,
 configuração de ferramentas DevOps e práticas ágeis.
 
 
