@@ -48,6 +48,7 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" /> 
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/267420917-3e875b49-4219-491d-b48e-b72fc94fa2e4.png" />  
+<img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/267421133-fbcb4f7b-d5fe-4dec-b247-62f8ac0b50af.png" /> 
 
 
 # Arquitetura e Ferramentas para o Challenge 
