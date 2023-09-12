@@ -2,7 +2,7 @@
 Mentoria Time Devops10
 
 <img src="https://user-images.githubusercontent.com/91704169/267195344-0a9e89ae-5e75-4eba-88b5-05ef429c84d2.png" min-width="200px" max-width="200px" width="200
-px" align="left" alt="CanalDaCloud">
+px" align="left" alt="CanalDaCloud">  </P>
 
 <p align="left">
              
