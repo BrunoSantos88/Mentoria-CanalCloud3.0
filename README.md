@@ -33,7 +33,7 @@
 - Sofware Linguagem: Terraform
 - Container: Docker - Kubenetes. 
 - Observability - </p>
-- Delivery: jenkins e Git Action 
+- Delivery Pipeline: Jenkins e GitAction
 
 
 
