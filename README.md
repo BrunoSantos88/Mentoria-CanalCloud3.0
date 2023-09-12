@@ -52,11 +52,8 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 
  </p>
  
-# Git
-O que é o Git? Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças no código-fonte de um projeto de software. 
- 
-# GitHub
-GitHub é uma plataforma de hospedagem de código-fonte baseada na web que usa o Git para controle de versão. Ele permite que desenvolvedores colaborem em projetos, compartilhem código e gerenciem projetos de software.
+- Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças no código-fonte de um projeto de software. 
+- GitHub é uma plataforma de hospedagem de código-fonte baseada na web que usa o Git para controle de versão. Ele permite que desenvolvedores colaborem em projetos, compartilhem código e gerenciem projetos de software.
 
 Comunidade: O GitHub é uma grande comunidade de desenvolvedores, onde você pode descobrir projetos de código aberto, contribuir para eles e aprender com outros desenvolvedores.
 🎯 Entre em contato comigo :) // contact me ⤵
