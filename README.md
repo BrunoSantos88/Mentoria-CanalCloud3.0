@@ -23,9 +23,9 @@
 
  </p>
  
-🤖 Curso DevOps Fundamentos
-- Devops Fundamentos.
-- Git e GitHUb
+🤖 Challenge DevOps Fundamentos
+-  Devops Fundamentos.
+-  Git e GitHUb
 
  </p>
 
