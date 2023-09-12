@@ -47,7 +47,7 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 <img align="center" alt="Rafa-Js" height="45" width="60" src="https://user-images.githubusercontent.com/91704169/211873981-07625883-ca60-4d6d-9a1b-4c9a4d97059c.png"/
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" /> 
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
-<img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/267420917-3e875b49-4219-491d-b48e-b72fc94fa2e4.png" />  
+<img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/267420917-3e875b49-4219-491d-b48e-b72fc94fa2e4.png" />  
 
 
 
