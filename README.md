@@ -49,12 +49,6 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
 <img align="center" alt="Rafa-Js" height="60" width="60" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
 <img align="center" alt="Rafa-Js" height="70" width="90" src="https://user-images.githubusercontent.com/91704169/267420917-3e875b49-4219-491d-b48e-b72fc94fa2e4.png" />  
 
-
-
-
-
-
-
 # Arquitetura e Ferramentas para o Challenge 
 
 • Kubernetes: Implantação e gerenciamento de clusters Kubernetes para 
@@ -98,7 +92,17 @@ proteger a infraestrutura.</p>
 para acesso seguro à rede.</p>
 • Repositório e Controle de Versão de Código: Estabelecimento de um 
 sistema de controle de versão para gerenciar o código-fonte dos 
-componentes do AutoStream
+componentes do AutoStream.
+-----------------------------------------------------------------------------------
+• Arquitetura Cloud Native: A solução deve ser construída nativamente na 
+nuvem, utilizando princípios e padrões Cloud Native para garantir 
+escalabilidade, resiliência e eficiência.
+• Microserviços e PaaS: A arquitetura de microserviços deve ser adotada, e 
+a solução deve fazer uso extensivo de serviços gerenciados (PaaS) para 
+maximizar a agilidade e a produtividade.
+• Agnosticidade de Cloud Providers: A solução deve ser projetada para 
+funcionar em vários provedores de nuvem, utilizando ferramentas e 
+serviços agnósticos para garantir a portabilidade.
    
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
