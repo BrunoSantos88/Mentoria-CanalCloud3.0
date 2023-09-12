@@ -47,7 +47,6 @@ configuração de ferramentas DevOps e práticas ágeis.
 
 # Arquitetura e Ferramentas para o Challenge 
 
-<img align="left" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
 • Kubernetes: Implantação e gerenciamento de clusters Kubernetes para orquestração eficiente de contêineres. </p>
 
 • APIm (API Management): Implementação de uma plataforma de 
@@ -66,7 +65,6 @@ PostgreSQL para armazenamento de dados estruturados.</p>
 • Web Services: Desenvolvimento de serviços da web para comunicação 
 entre componentes do AutoStream.</p>
 
-<img align="left" alt="Rafa-Js" height="60" width="70" src="https://user-images.githubusercontent.com/91704169/267483197-14c4fb56-a7ef-43bd-865b-a782de7c5cbd.png" /> 
 • Cache Redis: Configuração e gerenciamento de cache Redis para 
 melhorar o desempenho e a latência. </p>
 
@@ -75,16 +73,15 @@ distribuir o tráfego de forma equilibrada entre os microserviços.
 • Cofre de Senhas: Estabelecimento de um sistema seguro para o 
 armazenamento e gerenciamento de senhas sensíveis. </p>
 
-<img align="left" alt="Rafa-Js" height="70" width="70" src="https://user-images.githubusercontent.com/91704169/211866642-5ec6294b-cb91-4473-9849-e115d15a001d.png" />  
+
 Pipelines CI/CD: Desenvolvimento de pipelines de integração e entrega 
 contínuas para automatizar a implantação de infraestrutura e aplicativos.
 
-<img align="left" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" />
+
 • Infraestrutura como Código (IaC) com Terraform: Implementação da 
 infraestrutura como código usando o Terraform para facilitar o 
 provisionamento e gerenciamento.</p>
 
-<img align="left" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 • Registro de Containers: Configuração de um registro de containers para 
 armazenar e gerenciar imagens de contêineres.</p>
 
