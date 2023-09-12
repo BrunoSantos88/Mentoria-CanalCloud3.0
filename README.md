@@ -48,8 +48,7 @@ configuração de ferramentas DevOps e práticas ágeis. /p>
   
 </p>
 # Arquitetura e Ferramentas para o Challenge
-
-# Componentes-Chave:
+- Componentes-Chave:
 • Kubernetes: Implantação e gerenciamento de clusters Kubernetes para 
 orquestração eficiente de contêineres. </p>
 • APIm (API Management): Implementação de uma plataforma de 
