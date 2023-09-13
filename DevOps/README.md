@@ -3,33 +3,33 @@
 #  dia 13/09 Link:
 -
 -
-- Dia 20/09 Link:
+# Dia 20/09 Link:
 -
 -
-- Dia 28/09 Link:
+# Dia 28/09 Link:
 -
 -
-- Dia 05/10 Link:
+# Dia 05/10 Link:
 -
 -
-- Dia 11/10 Link:
+# Dia 11/10 Link:
 -
 -
-- Dia 18/10 Link:
+# Dia 18/10 Link:
 -
 -
-- Dia 25/10 Link:
+# Dia 25/10 Link:
 -
 -
-- Dia 01/11 Link:
+# Dia 01/11 Link:
 -
 -
-- Dia 08/11 Link:
+# Dia 08/11 Link:
+- 
 -
+# Dia 16/11 Link:
+- 
 -
-- Dia 16/11 Link:
--
--
-- Dia 22/11 Link:
+# Dia 22/11 Link:
 -
 -
