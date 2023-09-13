@@ -13,7 +13,7 @@
 <img align="center" alt="Rafa-Js" height="90" width="90" src="https://user-images.githubusercontent.com/91704169/267420917-3e875b49-4219-491d-b48e-b72fc94fa2e4.png" />  
 
 # DevOps Fundamentos
-- aulas tecnicas ministradas pelo youtube
+- Aulas tecnicas ministradas pelo youtube
 #  dia 13/09 Link:
 -
 -
