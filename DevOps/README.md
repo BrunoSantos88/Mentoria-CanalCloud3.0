@@ -1,5 +1,5 @@
 # DevOps Fundamentos
-- aulas tecnicas
+- aulas tecnicas ministradas pelo youtube
 #  dia 13/09 Link:
 -
 -
