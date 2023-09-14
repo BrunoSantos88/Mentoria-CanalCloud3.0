@@ -15,8 +15,8 @@
 # DevOps Fundamentos
 - Aulas tecnicas ministradas pelo youtube
 #  dia 13/09 Link:
-- https://www.youtube.com/watch?v=v1dNMDMg7bk
-- Palavra chave: Pipeline
+- aulas de conhecimento basicos.
+- Ferramentas,Cloud e Certificaões.
 # Dia 20/09 Link:
 -
 -
