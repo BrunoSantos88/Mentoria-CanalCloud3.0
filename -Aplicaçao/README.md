@@ -1,6 +1,6 @@
 
 # Desafio 1
-- criar dockerfile usando arquivos index.hmtl
+- criar dockerfile usando arquivos index.html
 - criar um docker hub
 - criar uma build nome app
 - criar uma tag app:v1
