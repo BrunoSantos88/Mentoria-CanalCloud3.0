@@ -12,3 +12,6 @@
 - criar uma build nome frontend
 - criar uma tag frontend:v1
 - criar um push para endereço versionamento docker chamando frontend
+
+# Desafio 3 
+- Criar uma arquitetura na AWS usando Git, build e deploy , com notificações de stages./

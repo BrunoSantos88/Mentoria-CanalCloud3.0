@@ -1,0 +1,15 @@
+#cloud-config
+package_upgrade: true
+runcmd:
+  - sudo apt-get update
+  - sudo apt-get upgrade -y
+# Install Java (SonarQube requires Java)
+  - sudo apt-get install -y default-jre
+  - sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-8.9.2.46101.zip
+  - sudo unzip sonarqube-8.9.2.46101.zip -d /opt
+  - sudo mv /opt/sonarqube-8.9.2.46101 /opt/sonarqube
+  - sudo cp /opt/sonarqube/conf/sonar.properties /opt/sonarqube/conf/sonar.properties.bak
+  - sudo sed -i 's/^#sonar.jdbc.username=/sonar.jdbc.username=sonar/' /opt/sonarqube/conf/sonar.properties
+  - sudo sed -i 's/^#sonar.jdbc.password=/sonar.jdbc.password=your_password/' /opt/sonarqube/conf/sonar.properties
+  - sudo /opt/sonarqube/bin/linux-x86-64/sonar.sh start
+  - sudo systemctl enable sonar
