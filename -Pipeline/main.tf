@@ -1,0 +1,4 @@
+module "projetolab" {
+    source       = "./network"
+}
+

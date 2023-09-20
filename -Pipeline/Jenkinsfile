@@ -1,0 +1,70 @@
+pipeline {
+    agent any
+    environment {
+        PROJECT_ID = ('ProjectID')
+        LOCATION = 'southamerica-east1'
+        GCLOUD_CREDS=credentials('gcloud-creds')
+    }
+
+    tools { 
+        ///depentencias 
+        terraform 'Terraform 1.3.7' 
+    }
+
+// Stages.
+  stages {   
+
+stage('GIT CLONE') {
+  steps {
+                // Get code from a GitHub repository
+    git url: 'https://github.com/BrunoSantos88/jenkins-example-google-cloud-run.git', branch: 'main',
+    credentialsId: 'jenkins-server_local'
+          }
+  }
+
+    stage('Verify version') {
+      steps {
+        sh '''
+          gcloud version
+        '''
+      }
+    }
+   stage('Authenticate') {
+      steps {
+        sh '''
+          gcloud auth activate-service-account --key-file="$GCLOUD_CREDS"
+        '''
+      }
+    }
+
+
+
+///INFRA iS CODE 
+    stage('TF INICIAR') {
+            steps {
+                sh '''
+                terraform init
+                '''
+            }
+        }
+
+        stage('TF FMT') {
+            steps {
+                sh 'terraform fmt '
+                
+            }
+        }
+
+        stage('TF Apply') {
+            steps {
+          sh '''
+          terraform apply -auto-approve
+          '''
+
+            }
+        }
+}
+}
+  
+
+
