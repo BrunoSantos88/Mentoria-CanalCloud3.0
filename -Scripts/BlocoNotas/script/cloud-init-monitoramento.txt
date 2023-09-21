@@ -1,6 +1,0 @@
-#cloud-config
-package_upgrade: true
-runcmd:
- - sudo apt-get update
- - sudo apt-get install prometheus -y
- - sudo wget https://github.com/prometheus/node_exporter/releases/download/v1.2.2/node_exporter-1.2.2.linux-amd64.tar.gz
