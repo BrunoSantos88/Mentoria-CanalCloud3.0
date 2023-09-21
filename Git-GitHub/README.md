@@ -11,3 +11,10 @@
  $ git commit -m "texto"                    ///    --- Setar nome do push </p>
  $ git push origin main                     ///    --- executar push branch </p>
  $ git pull                                 ///    --- baixar atualização commit
+
+
+ ### jenkins
+ 
+ - Jekins add trigger nas configuraçoes
+ - webhook
+ - setar no webhokhttp://ip/github-web-hooks/
