@@ -13,7 +13,7 @@
  $ git pull                                 ///    --- baixar atualização commit
 
 
- ### jenkins
+ ### jenkins integration
  
  - Jekins add trigger nas configuraçoes
  - webhook
