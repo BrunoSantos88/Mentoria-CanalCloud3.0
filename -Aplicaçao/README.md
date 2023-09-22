@@ -9,3 +9,7 @@
 - criar uma build nome frontend
 - criar uma tag frontend:v1
 - criar um push para endereço versionamento docker chamando frontend:v1
+# Desafio 3
+  Criar Bucket S3, subir um site static usando pipeline com jenkins
+  Usando Terraform para criar o bucket
+  Deploy com jenkinfile
