@@ -36,6 +36,8 @@ az vm show --resource-group jenkins-get-started-rg --name monitoramento-server-v
 - commando add
 - c \- --ssh-key-values mysshkey.pub
 
+# Colocar Gitignore na chave
+
 Acesso SSH commados apos instalação
 
 ssh azureuser@<ip_address>
