@@ -6,7 +6,7 @@ az group create --name jenkins-get-started-rg --location eastus
 az group create --name Clusterk8s-get-started-rg --location eastus
 
 
-az vm create --resource-group jenkins-get-started-rg --name jenkins-server-vm --image UbuntuLTS --data-disk-sizes-gb 1024 --size Standard_D2as_v4 --admin-username "azureuser" --generate-ssh-keys --public-ip-sku Standard --custom-data cloud-init-jenkins.txt
+az vm create --resource-group jenkins-get-started-rg --name jenkins-server-vm --image UbuntuLTS --data-disk-sizes-gb 1024 --size Standard_D2as_v4 --admin-username "azureuser" --generate-ssh-keys --public-ip-sku Standard --custom-data cloud-init-jenkins.txt --admin-username jenkins --ssh-key-values mysshkey.pub
 
 az vm create --resource-group jenkins-get-started-rg --name monitoramento-server-vm --image UbuntuLTS --data-disk-sizes-gb 1024 --size Standard_D2as_v4 --admin-username "azureuser" --generate-ssh-keys --public-ip-sku Standard 
 
@@ -32,6 +32,9 @@ az vm show --resource-group jenkins-get-started-rg --name monitoramento-server-v
 # Criar SSH
 - ssh-keygen -m PEM -t rsa -b 4096
 - cat ~/.ssh/id_rsa.pub
+
+- commando add
+- c \- --ssh-key-values mysshkey.pub
 
 Acesso SSH commados apos instalação
 
