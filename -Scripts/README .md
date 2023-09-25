@@ -29,6 +29,10 @@ az vm open-port --resource-group -get-started-rg --name monitoramento-server-vm 
 
 az vm show --resource-group jenkins-get-started-rg --name monitoramento-server-vm -d --query [publicIps] --output tsv
 
+# Criar SSH
+- ssh-keygen -m PEM -t rsa -b 4096
+- cat ~/.ssh/id_rsa.pub
+
 Acesso SSH commados apos instalação
 
 ssh azureuser@<ip_address>
