@@ -8,7 +8,9 @@ az group create --name Clusterk8s-get-started-rg --location eastus
 
 az vm create --resource-group jenkins-get-started-rg --name jenkins-server-vm --image UbuntuLTS --data-disk-sizes-gb 80 --size Standard_D2s_v3 --admin-username "jenkins"  --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard --custom-data cloud-init-jenkins.txt 
 
-az vm create --resource-group jenkins-get-started-rg --name monitoramento-server-vm --image UbuntuLTS --data-disk-sizes-gb 1024 --size Standard_D2as_v4 --admin-username "azureuser" --generate-ssh-keys --public-ip-sku Standard 
+az vm create --resource-group Clusterk8s-get-started-rg --name monitoramento-server-vm --image UbuntuLTS --data-disk-sizes-gb 1024 --size Standard_D2as_v4 --admin-username "azureuser" --generate-ssh-keys --public-ip-sku Standard 
+
+az vm create --resource-group Clusterk8s-get-started-rg --name clusterk8s-server-vm --image UbuntuLTS --data-disk-sizes-gb 250 --size Standard_D2s_v4 --admin-username "master"  --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
 
 az vm create --resource-group Clusterk8s-get-started-rg --name Clusterk8s-server-vm --image UbuntuLTS --data-disk-sizes-gb 160 --size Standard_D2as_v4 --admin-username "azureuser" --generate-ssh-keys --public-ip-sku Standard --custom-data cloud-init-clusterk8.txt
 
@@ -45,3 +47,28 @@ Acesso SSH commados apos instalação
 ssh -i ~/.ssh/id_rsa jenkins@ip
 service jenkins status
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+
+---------------------
+cluster kuberntes
+
+az group create --name Clusterk8s-get-started-rg --location eastus
+
+az vm create --resource-group Clusterk8s-get-started-rg --name clusterk8s-server-vm --image UbuntuLTS --data-disk-sizes-gb 250 --size Standard_D2s_v4 --admin-username "master"  --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
+
+az vm create --resource-group Clusterk8s-get-started-rg --name node1-server-vm --image UbuntuLTS --data-disk-sizes-gb 250 --size Standard_D2s_v4 --admin-username "node" --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
+
+az vm create --resource-group Clusterk8s-get-started-rg --name node2-server-vm --image UbuntuLTS --data-disk-sizes-gb 250 --size Standard_D2s_v3 --admin-username "node"  --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
+
+az sshkey create --location "westus" --resource-group Clusterk8s-get-started-rg --name "mySshPublicKeyName"
+
+
+az vm list -d -o table --query "[?name=='clusterk8s-server-vm']"
+az vm list -d -o table --query "[?name=='node1-server-vm']"
+az vm list -d -o table --query "[?name=='node2-server-vm']"
+
+
+az vm open-port --resource-group Clusterk8s-get-started-rg --name Clusterk8s-server-vm --port 3000-32800 --priority 1010
+
+
+ssh -i ~/.ssh/id_rsa master@172.190.30.81

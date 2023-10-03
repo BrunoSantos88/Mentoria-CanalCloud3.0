@@ -1,0 +1,6 @@
+- name: Some play
+  hosts: all
+  remote_user: ubuntu
+
+  tasks:
+  - ping:
