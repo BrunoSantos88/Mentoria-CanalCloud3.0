@@ -51,3 +51,8 @@ sudo yum -y install terraform
 sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 sudo . ~/.nvm/nvm.sh
 sudo nvm install node
+
+# Ansible
+sudo apt install software-properties-common
+sudo add-apt-repository --yes --update ppa:ansible/ansible
+sudo apt install ansible -y

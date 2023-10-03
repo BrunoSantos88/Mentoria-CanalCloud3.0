@@ -19,6 +19,8 @@ az vm list -d -o table --query "[?name=='Clusterk8s-server-vm']"
 
 az vm open-port --resource-group jenkins-get-started-rg --name jenkins-server-vm --port 8080 --priority 1010
 
+az network nsg rule update -g jenkins-get-started-rg --nsg-name jenkins-server-vmNSG -n owenallowipaccess --source-address-prefixes 187.74.167.118
+
 az vm open-port --resource-group jenkins-get-started-rg --name monitoramento-server-vm --port 9090 --priority 1020
 
 az vm open-port --resource-group Clusterk8s-get-started-rg --name Clusterk8s-server-vm --port 3000-32800 --priority 1010
