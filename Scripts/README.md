@@ -54,11 +54,11 @@ cluster kuberntes
 
 az group create --name Clusterk8s-get-started-rg --location eastus
 
-az vm create --resource-group Clusterk8s-get-started-rg --name clusterk8s-server-vm --image UbuntuLTS --data-disk-sizes-gb 250 --size Standard_D2s_v4 --admin-username "master"  --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
+az vm create --resource-group Clusterk8s-get-started-rg --name clusterk8s-server-vm --image UbuntuLTS --data-disk-sizes-gb 80 --size Standard_D2s_v4 --admin-username "master"  --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
 
-az vm create --resource-group Clusterk8s-get-started-rg --name node1-server-vm --image UbuntuLTS --data-disk-sizes-gb 250 --size Standard_D2s_v4 --admin-username "node" --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
+az vm create --resource-group Clusterk8s-get-started-rg --name node1-server-vm --image UbuntuLTS --data-disk-sizes-gb 80 --size Standard_D2s_v4 --admin-username "node" --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
 
-az vm create --resource-group Clusterk8s-get-started-rg --name node2-server-vm --image UbuntuLTS --data-disk-sizes-gb 250 --size Standard_D2s_v3 --admin-username "node"  --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
+az vm create --resource-group Clusterk8s-get-started-rg --name node2-server-vm --image UbuntuLTS --data-disk-sizes-gb 80 --size Standard_D2s_v3 --admin-username "node"  --ssh-key-value ~/.ssh/id_rsa.pub --public-ip-sku Standard
 
 az sshkey create --location "westus" --resource-group Clusterk8s-get-started-rg --name "mySshPublicKeyName"
 
