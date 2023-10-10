@@ -1,26 +1,26 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: jenkins-ui
+  name: jenkins
 spec:
   type: NodePort
   ports:
-    - protocol: TCP
-      port: 8080
+    - port: 8080
       targetPort: 8080
-      name: ui
+      nodePort: 30000
   selector:
-    app: jenkins-master
+    app: jenkins
+
 ---
+
 apiVersion: v1
 kind: Service
 metadata:
-  name: jenkins-discovery
+  name: jenkins-jnlp
 spec:
-  selector:
-    app: jenkins-master
+  type: ClusterIP
   ports:
-    - protocol: TCP
-      port: 50000
+    - port: 50000
       targetPort: 50000
-      name: jenkins-slaves
+  selector:
+    app: jenkins
