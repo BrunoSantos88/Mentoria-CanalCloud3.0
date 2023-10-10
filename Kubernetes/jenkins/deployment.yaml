@@ -1,27 +1,29 @@
-apiVersion: apps/v1
+apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: jenkins-deployment
+  name: jenkins
 spec:
-  replicas: 1
-  selector:
-    matchLabels:
-      app: jenkins
+  replicas: 3
   template:
     metadata:
       labels:
-        app: jenkins
+        app: jenkins-master
     spec:
-      serviceAccountName: jenkins
       containers:
-        - name: jenkins
-          image: jenkins/jenkins:lts
+        - image: jenkins/jenkins:2.154-alpine
+          name: jenkins
           ports:
             - containerPort: 8080
+              name: http-port
+            - containerPort: 50000
+              name: jnlp-port
+          env:
+            - name: JAVA_OPTS
+              value: -Djenkins.install.runSetupWizard=false
           volumeMounts:
-            - name: jenkins-data
+            - name: jenkins-home
               mountPath: /var/jenkins_home
-      volumes:
-        - name: jenkins-data
-          persistentVolumeClaim:
-            claimName: jenkins-pvc
+          volumes:
+            - name: jenkins-home
+              persistentVolumeClaim:
+              claimName: jenkins-pvc
