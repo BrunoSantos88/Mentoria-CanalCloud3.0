@@ -52,7 +52,3 @@ sudo apt-get install terraform -y
 #install nodejs
 sudo curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
-#installAnsible
-sudo apt install software-properties-common
-sudo add-apt-repository --yes --update ppa:ansible/ansible
-sudo apt install ansible -y

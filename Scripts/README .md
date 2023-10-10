@@ -71,4 +71,36 @@ az vm list -d -o table --query "[?name=='node2-server-vm']"
 az vm open-port --resource-group Clusterk8s-get-started-rg --name Clusterk8s-server-vm --port 3000-32800 --priority 1010
 
 
-ssh -i ~/.ssh/id_rsa master@172.190.30.81
+ - ssh -i ~/.ssh/id_rsa master@172.190.30.81
+
+
+ # Az create gitops 
+
+
+az group create --name myakscluster --location eastus
+
+az aks create \
+    --resource-group myakscluster \
+    --name akscluster \
+    --vm-set-type VirtualMachineScaleSets \
+    --node-count 2 \
+    --generate-ssh-keys \
+    --load-balancer-sku standard
+
+az aks nodepool add \
+    --resource-group myakscluster \
+    --cluster-name myakscluster \
+    --name mynodepool \
+    --node-count 3
+
+
+    az storage account create \
+    --name documentation \
+    --resource-group myakscluster \
+    --location East US \
+    --sku Standard_ZRS \
+    --encryption-services blob
+
+   az storage account create --name myakscluster --resource-group myakscluster --location westus --sku Standard_LRS --allow-blob-public-access --public-network-access
+
+   # add .kube/config
