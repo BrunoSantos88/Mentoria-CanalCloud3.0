@@ -120,6 +120,8 @@ maximizar a agilidade e a produtividade.
 - Agnosticidade de Cloud Providers: A solução deve ser projetada para 
 funcionar em vários provedores de nuvem, utilizando ferramentas e 
 serviços agnósticos para garantir a portabilidade.
+
+<img align="center" alt="Rafa-Js" height="500" width="500" src="https://user-images.githubusercontent.com/91704169/275651006-5c9c43dc-3a27-44e7-b404-c15a12cf723b.gif"/>
    
 🎯 Entre em contato comigo :) // contact me ⤵
 </p>
